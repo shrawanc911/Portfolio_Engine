@@ -1,0 +1,35 @@
+# Dependencies
+node_modules
+
+# Build outputs
+build
+dist
+.cache
+coverage
+uploads
+
+# Logs
+*.log
+npm-debug.log
+**/*.log
+
+# Environment files
+.env
+.env.local
+**/*.local
+
+# Docker
+Dockerfile
+Dockerfile.dev
+.dockerignore
+
+# Git
+.git
+.gitignore
+
+# IDE / Editor configs
+.vscode
+.idea
+
+# TypeScript
+**/*.tsbuildinfo

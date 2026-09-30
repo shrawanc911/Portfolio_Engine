@@ -1,0 +1,810 @@
+{
+  "INE117A01022": {
+    "DISPLAY_NAME": "ABB India Ltd.",
+    "INDUSTRY": "Capital Goods",
+    "SYMBOL_NAME": "ABB",
+    "ISIN": "INE117A01022",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "13"
+  },
+  "INE931S01010": {
+    "DISPLAY_NAME": "Adani Energy Solutions Ltd.",
+    "INDUSTRY": "Power",
+    "SYMBOL_NAME": "ADANIENSOL",
+    "ISIN": "INE931S01010",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "10217"
+  },
+  "INE423A01024": {
+    "DISPLAY_NAME": "Adani Enterprises Ltd.",
+    "INDUSTRY": "Metals & Mining",
+    "SYMBOL_NAME": "ADANIENT",
+    "ISIN": "INE423A01024",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "25"
+  },
+  "INE364U01010": {
+    "DISPLAY_NAME": "Adani Green Energy Ltd.",
+    "INDUSTRY": "Power",
+    "SYMBOL_NAME": "ADANIGREEN",
+    "ISIN": "INE364U01010",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "3563"
+  },
+  "INE742F01042": {
+    "DISPLAY_NAME": "Adani Ports and Special Economic Zone Ltd.",
+    "INDUSTRY": "Services",
+    "SYMBOL_NAME": "ADANIPORTS",
+    "ISIN": "INE742F01042",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "15083"
+  },
+  "INE814H01029": {
+    "DISPLAY_NAME": "Adani Power Ltd.",
+    "INDUSTRY": "Power",
+    "SYMBOL_NAME": "ADANIPOWER",
+    "ISIN": "INE814H01029",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "17388"
+  },
+  "INE079A01024": {
+    "DISPLAY_NAME": "Ambuja Cements Ltd.",
+    "INDUSTRY": "Construction Materials",
+    "SYMBOL_NAME": "AMBUJACEM",
+    "ISIN": "INE079A01024",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "1270"
+  },
+  "INE437A01024": {
+    "DISPLAY_NAME": "Apollo Hospitals Enterprise Ltd.",
+    "INDUSTRY": "Healthcare",
+    "SYMBOL_NAME": "APOLLOHOSP",
+    "ISIN": "INE437A01024",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "157"
+  },
+  "INE021A01026": {
+    "DISPLAY_NAME": "Asian Paints Ltd.",
+    "INDUSTRY": "Consumer Durables",
+    "SYMBOL_NAME": "ASIANPAINT",
+    "ISIN": "INE021A01026",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "236"
+  },
+  "INE192R01011": {
+    "DISPLAY_NAME": "Avenue Supermarts Ltd.",
+    "INDUSTRY": "Consumer Services",
+    "SYMBOL_NAME": "DMART",
+    "ISIN": "INE192R01011",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "19913"
+  },
+  "INE238A01034": {
+    "DISPLAY_NAME": "Axis Bank Ltd.",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "AXISBANK",
+    "ISIN": "INE238A01034",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "5900"
+  },
+  "INE917I01010": {
+    "DISPLAY_NAME": "Bajaj Auto Ltd.",
+    "INDUSTRY": "Automobile and Auto Components",
+    "SYMBOL_NAME": "BAJAJ-AUTO",
+    "ISIN": "INE917I01010",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "16669"
+  },
+  "INE296A01032": {
+    "DISPLAY_NAME": "Bajaj Finance Ltd.",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "BAJFINANCE",
+    "ISIN": "INE296A01032",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "317"
+  },
+  "INE918I01026": {
+    "DISPLAY_NAME": "Bajaj Finserv Ltd.",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "BAJAJFINSV",
+    "ISIN": "INE918I01026",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "16675"
+  },
+  "INE118A01012": {
+    "DISPLAY_NAME": "Bajaj Holdings & Investment Ltd.",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "BAJAJHLDNG",
+    "ISIN": "INE118A01012",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "305"
+  },
+  "INE377Y01014": {
+    "DISPLAY_NAME": "Bajaj Housing Finance Ltd.",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "BAJAJHFL",
+    "ISIN": "INE377Y01014",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "25270"
+  },
+  "INE028A01039": {
+    "DISPLAY_NAME": "Bank of Baroda",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "BANKBARODA",
+    "ISIN": "INE028A01039",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "4668"
+  },
+  "INE263A01024": {
+    "DISPLAY_NAME": "Bharat Electronics Ltd.",
+    "INDUSTRY": "Capital Goods",
+    "SYMBOL_NAME": "BEL",
+    "ISIN": "INE263A01024",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "383"
+  },
+  "INE029A01011": {
+    "DISPLAY_NAME": "Bharat Petroleum Corporation Ltd.",
+    "INDUSTRY": "Oil Gas & Consumable Fuels",
+    "SYMBOL_NAME": "BPCL",
+    "ISIN": "INE029A01011",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "526"
+  },
+  "INE397D01024": {
+    "DISPLAY_NAME": "Bharti Airtel Ltd.",
+    "INDUSTRY": "Telecommunication",
+    "SYMBOL_NAME": "BHARTIARTL",
+    "ISIN": "INE397D01024",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "10604"
+  },
+  "INE323A01026": {
+    "DISPLAY_NAME": "Bosch Ltd.",
+    "INDUSTRY": "Automobile and Auto Components",
+    "SYMBOL_NAME": "BOSCHLTD",
+    "ISIN": "INE323A01026",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "2181"
+  },
+  "INE216A01030": {
+    "DISPLAY_NAME": "Britannia Industries Ltd.",
+    "INDUSTRY": "Fast Moving Consumer Goods",
+    "SYMBOL_NAME": "BRITANNIA",
+    "ISIN": "INE216A01030",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "547"
+  },
+  "INE067A01029": {
+    "DISPLAY_NAME": "CG Power and Industrial Solutions Ltd.",
+    "INDUSTRY": "Capital Goods",
+    "SYMBOL_NAME": "CGPOWER",
+    "ISIN": "INE067A01029",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "760"
+  },
+  "INE476A01022": {
+    "DISPLAY_NAME": "Canara Bank",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "CANBK",
+    "ISIN": "INE476A01022",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "10794"
+  },
+  "INE121A01024": {
+    "DISPLAY_NAME": "Cholamandalam Investment and Finance Company Ltd.",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "CHOLAFIN",
+    "ISIN": "INE121A01024",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "685"
+  },
+  "INE059A01026": {
+    "DISPLAY_NAME": "Cipla Ltd.",
+    "INDUSTRY": "Healthcare",
+    "SYMBOL_NAME": "CIPLA",
+    "ISIN": "INE059A01026",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "694"
+  },
+  "INE522F01014": {
+    "DISPLAY_NAME": "Coal India Ltd.",
+    "INDUSTRY": "Oil Gas & Consumable Fuels",
+    "SYMBOL_NAME": "COALINDIA",
+    "ISIN": "INE522F01014",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "20374"
+  },
+  "INE271C01023": {
+    "DISPLAY_NAME": "DLF Ltd.",
+    "INDUSTRY": "Realty",
+    "SYMBOL_NAME": "DLF",
+    "ISIN": "INE271C01023",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "14732"
+  },
+  "INE361B01024": {
+    "DISPLAY_NAME": "Divi's Laboratories Ltd.",
+    "INDUSTRY": "Healthcare",
+    "SYMBOL_NAME": "DIVISLAB",
+    "ISIN": "INE361B01024",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "10940"
+  },
+  "INE089A01031": {
+    "DISPLAY_NAME": "Dr. Reddy's Laboratories Ltd.",
+    "INDUSTRY": "Healthcare",
+    "SYMBOL_NAME": "DRREDDY",
+    "ISIN": "INE089A01031",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "881"
+  },
+  "DUM030A01027": {
+    "DISPLAY_NAME": "Dummy Hindustan Unilever Ltd.",
+    "INDUSTRY": "Fast Moving Consumer Goods",
+    "SYMBOL_NAME": "DUMMYHDLVR",
+    "ISIN": "DUM030A01027",
+    "EXCH_ID": null,
+    "SECURITY_ID": null
+  },
+  "INE066A01021": {
+    "DISPLAY_NAME": "Eicher Motors Ltd.",
+    "INDUSTRY": "Automobile and Auto Components",
+    "SYMBOL_NAME": "EICHERMOT",
+    "ISIN": "INE066A01021",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "910"
+  },
+  "INE758T01015": {
+    "DISPLAY_NAME": "Eternal Ltd.",
+    "INDUSTRY": "Consumer Services",
+    "SYMBOL_NAME": "ETERNAL",
+    "ISIN": "INE758T01015",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "5097"
+  },
+  "INE129A01019": {
+    "DISPLAY_NAME": "GAIL (India) Ltd.",
+    "INDUSTRY": "Oil Gas & Consumable Fuels",
+    "SYMBOL_NAME": "GAIL",
+    "ISIN": "INE129A01019",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "4717"
+  },
+  "INE102D01028": {
+    "DISPLAY_NAME": "Godrej Consumer Products Ltd.",
+    "INDUSTRY": "Fast Moving Consumer Goods",
+    "SYMBOL_NAME": "GODREJCP",
+    "ISIN": "INE102D01028",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "10099"
+  },
+  "INE047A01021": {
+    "DISPLAY_NAME": "Grasim Industries Ltd.",
+    "INDUSTRY": "Construction Materials",
+    "SYMBOL_NAME": "GRASIM",
+    "ISIN": "INE047A01021",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "1232"
+  },
+  "INE860A01027": {
+    "DISPLAY_NAME": "HCL Technologies Ltd.",
+    "INDUSTRY": "Information Technology",
+    "SYMBOL_NAME": "HCLTECH",
+    "ISIN": "INE860A01027",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "7229"
+  },
+  "INE040A01034": {
+    "DISPLAY_NAME": "HDFC Bank Ltd.",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "HDFCBANK",
+    "ISIN": "INE040A01034",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "1333"
+  },
+  "INE795G01014": {
+    "DISPLAY_NAME": "HDFC Life Insurance Company Ltd.",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "HDFCLIFE",
+    "ISIN": "INE795G01014",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "467"
+  },
+  "INE176B01034": {
+    "DISPLAY_NAME": "Havells India Ltd.",
+    "INDUSTRY": "Consumer Durables",
+    "SYMBOL_NAME": "HAVELLS",
+    "ISIN": "INE176B01034",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "9819"
+  },
+  "INE038A01020": {
+    "DISPLAY_NAME": "Hindalco Industries Ltd.",
+    "INDUSTRY": "Metals & Mining",
+    "SYMBOL_NAME": "HINDALCO",
+    "ISIN": "INE038A01020",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "1363"
+  },
+  "INE066F01020": {
+    "DISPLAY_NAME": "Hindustan Aeronautics Ltd.",
+    "INDUSTRY": "Capital Goods",
+    "SYMBOL_NAME": "HAL",
+    "ISIN": "INE066F01020",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "2303"
+  },
+  "INE030A01027": {
+    "DISPLAY_NAME": "Hindustan Unilever Ltd.",
+    "INDUSTRY": "Fast Moving Consumer Goods",
+    "SYMBOL_NAME": "HINDUNILVR",
+    "ISIN": "INE030A01027",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "1394"
+  },
+  "INE267A01025": {
+    "DISPLAY_NAME": "Hindustan Zinc Ltd.",
+    "INDUSTRY": "Metals & Mining",
+    "SYMBOL_NAME": "HINDZINC",
+    "ISIN": "INE267A01025",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "1424"
+  },
+  "INE0V6F01027": {
+    "DISPLAY_NAME": "Hyundai Motor India Ltd.",
+    "INDUSTRY": "Automobile and Auto Components",
+    "SYMBOL_NAME": "HYUNDAI",
+    "ISIN": "INE0V6F01027",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "25844"
+  },
+  "INE090A01021": {
+    "DISPLAY_NAME": "ICICI Bank Ltd.",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "ICICIBANK",
+    "ISIN": "INE090A01021",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "4963"
+  },
+  "INE765G01017": {
+    "DISPLAY_NAME": "ICICI Lombard General Insurance Company Ltd.",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "ICICIGI",
+    "ISIN": "INE765G01017",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "21770"
+  },
+  "INE154A01025": {
+    "DISPLAY_NAME": "ITC Ltd.",
+    "INDUSTRY": "Fast Moving Consumer Goods",
+    "SYMBOL_NAME": "ITC",
+    "ISIN": "INE154A01025",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "1660"
+  },
+  "INE053A01029": {
+    "DISPLAY_NAME": "Indian Hotels Co. Ltd.",
+    "INDUSTRY": "Consumer Services",
+    "SYMBOL_NAME": "INDHOTEL",
+    "ISIN": "INE053A01029",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "1512"
+  },
+  "INE242A01010": {
+    "DISPLAY_NAME": "Indian Oil Corporation Ltd.",
+    "INDUSTRY": "Oil Gas & Consumable Fuels",
+    "SYMBOL_NAME": "IOC",
+    "ISIN": "INE242A01010",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "1624"
+  },
+  "INE053F01010": {
+    "DISPLAY_NAME": "Indian Railway Finance Corporation Ltd.",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "IRFC",
+    "ISIN": "INE053F01010",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "2029"
+  },
+  "INE663F01032": {
+    "DISPLAY_NAME": "Info Edge (India) Ltd.",
+    "INDUSTRY": "Consumer Services",
+    "SYMBOL_NAME": "NAUKRI",
+    "ISIN": "INE663F01032",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "13751"
+  },
+  "INE009A01021": {
+    "DISPLAY_NAME": "Infosys Ltd.",
+    "INDUSTRY": "Information Technology",
+    "SYMBOL_NAME": "INFY",
+    "ISIN": "INE009A01021",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "1594"
+  },
+  "INE646L01027": {
+    "DISPLAY_NAME": "InterGlobe Aviation Ltd.",
+    "INDUSTRY": "Services",
+    "SYMBOL_NAME": "INDIGO",
+    "ISIN": "INE646L01027",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "11195"
+  },
+  "INE121E01018": {
+    "DISPLAY_NAME": "JSW Energy Ltd.",
+    "INDUSTRY": "Power",
+    "SYMBOL_NAME": "JSWENERGY",
+    "ISIN": "INE121E01018",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "17869"
+  },
+  "INE019A01038": {
+    "DISPLAY_NAME": "JSW Steel Ltd.",
+    "INDUSTRY": "Metals & Mining",
+    "SYMBOL_NAME": "JSWSTEEL",
+    "ISIN": "INE019A01038",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "11723"
+  },
+  "INE749A01030": {
+    "DISPLAY_NAME": "Jindal Steel Ltd.",
+    "INDUSTRY": "Metals & Mining",
+    "SYMBOL_NAME": "JINDALSTEL",
+    "ISIN": "INE749A01030",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "6733"
+  },
+  "INE758E01017": {
+    "DISPLAY_NAME": "Jio Financial Services Ltd.",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "JIOFIN",
+    "ISIN": "INE758E01017",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "18143"
+  },
+  "INE237A01036": {
+    "DISPLAY_NAME": "Kotak Mahindra Bank Ltd.",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "KOTAKBANK",
+    "ISIN": "INE237A01036",
+    "EXCH_ID": null,
+    "SECURITY_ID": null
+  },
+  "INE214T01019": {
+    "DISPLAY_NAME": "LTIMindtree Ltd.",
+    "INDUSTRY": "Information Technology",
+    "SYMBOL_NAME": "LTIM",
+    "ISIN": "INE214T01019",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "17818"
+  },
+  "INE018A01030": {
+    "DISPLAY_NAME": "Larsen & Toubro Ltd.",
+    "INDUSTRY": "Construction",
+    "SYMBOL_NAME": "LT",
+    "ISIN": "INE018A01030",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "11483"
+  },
+  "INE0J1Y01017": {
+    "DISPLAY_NAME": "Life Insurance Corporation of India",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "LICI",
+    "ISIN": "INE0J1Y01017",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "9480"
+  },
+  "INE670K01029": {
+    "DISPLAY_NAME": "Lodha Developers Ltd.",
+    "INDUSTRY": "Realty",
+    "SYMBOL_NAME": "LODHA",
+    "ISIN": "INE670K01029",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "3220"
+  },
+  "INE101A01026": {
+    "DISPLAY_NAME": "Mahindra & Mahindra Ltd.",
+    "INDUSTRY": "Automobile and Auto Components",
+    "SYMBOL_NAME": "M&M",
+    "ISIN": "INE101A01026",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "2031"
+  },
+  "INE585B01010": {
+    "DISPLAY_NAME": "Maruti Suzuki India Ltd.",
+    "INDUSTRY": "Automobile and Auto Components",
+    "SYMBOL_NAME": "MARUTI",
+    "ISIN": "INE585B01010",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "10999"
+  },
+  "INE027H01010": {
+    "DISPLAY_NAME": "Max Healthcare Institute Ltd.",
+    "INDUSTRY": "Healthcare",
+    "SYMBOL_NAME": "MAXHEALTH",
+    "ISIN": "INE027H01010",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "22377"
+  },
+  "INE249Z01020": {
+    "DISPLAY_NAME": "Mazagoan Dock Shipbuilders Ltd.",
+    "INDUSTRY": "Capital Goods",
+    "SYMBOL_NAME": "MAZDOCK",
+    "ISIN": "INE249Z01020",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "509"
+  },
+  "INE733E01010": {
+    "DISPLAY_NAME": "NTPC Ltd.",
+    "INDUSTRY": "Power",
+    "SYMBOL_NAME": "NTPC",
+    "ISIN": "INE733E01010",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "11630"
+  },
+  "INE239A01024": {
+    "DISPLAY_NAME": "Nestle India Ltd.",
+    "INDUSTRY": "Fast Moving Consumer Goods",
+    "SYMBOL_NAME": "NESTLEIND",
+    "ISIN": "INE239A01024",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "17963"
+  },
+  "INE213A01029": {
+    "DISPLAY_NAME": "Oil & Natural Gas Corporation Ltd.",
+    "INDUSTRY": "Oil Gas & Consumable Fuels",
+    "SYMBOL_NAME": "ONGC",
+    "ISIN": "INE213A01029",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "2475"
+  },
+  "INE318A01026": {
+    "DISPLAY_NAME": "Pidilite Industries Ltd.",
+    "INDUSTRY": "Chemicals",
+    "SYMBOL_NAME": "PIDILITIND",
+    "ISIN": "INE318A01026",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "2664"
+  },
+  "INE134E01011": {
+    "DISPLAY_NAME": "Power Finance Corporation Ltd.",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "PFC",
+    "ISIN": "INE134E01011",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "14299"
+  },
+  "INE752E01010": {
+    "DISPLAY_NAME": "Power Grid Corporation of India Ltd.",
+    "INDUSTRY": "Power",
+    "SYMBOL_NAME": "POWERGRID",
+    "ISIN": "INE752E01010",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "14977"
+  },
+  "INE160A01022": {
+    "DISPLAY_NAME": "Punjab National Bank",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "PNB",
+    "ISIN": "INE160A01022",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "10666"
+  },
+  "INE020B01018": {
+    "DISPLAY_NAME": "REC Ltd.",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "RECLTD",
+    "ISIN": "INE020B01018",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "15355"
+  },
+  "INE002A01018": {
+    "DISPLAY_NAME": "Reliance Industries Ltd.",
+    "INDUSTRY": "Oil Gas & Consumable Fuels",
+    "SYMBOL_NAME": "RELIANCE",
+    "ISIN": "INE002A01018",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "2885"
+  },
+  "INE123W01016": {
+    "DISPLAY_NAME": "SBI Life Insurance Company Ltd.",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "SBILIFE",
+    "ISIN": "INE123W01016",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "21808"
+  },
+  "INE775A01035": {
+    "DISPLAY_NAME": "Samvardhana Motherson International Ltd.",
+    "INDUSTRY": "Automobile and Auto Components",
+    "SYMBOL_NAME": "MOTHERSON",
+    "ISIN": "INE775A01035",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "4204"
+  },
+  "INE070A01015": {
+    "DISPLAY_NAME": "Shree Cement Ltd.",
+    "INDUSTRY": "Construction Materials",
+    "SYMBOL_NAME": "SHREECEM",
+    "ISIN": "INE070A01015",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "3103"
+  },
+  "INE721A01047": {
+    "DISPLAY_NAME": "Shriram Finance Ltd.",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "SHRIRAMFIN",
+    "ISIN": "INE721A01047",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "4306"
+  },
+  "INE1NPP01017": {
+    "DISPLAY_NAME": "Siemens Energy India Ltd.",
+    "INDUSTRY": "Capital Goods",
+    "SYMBOL_NAME": "ENRIN",
+    "ISIN": "INE1NPP01017",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "756871"
+  },
+  "INE003A01024": {
+    "DISPLAY_NAME": "Siemens Ltd.",
+    "INDUSTRY": "Capital Goods",
+    "SYMBOL_NAME": "SIEMENS",
+    "ISIN": "INE003A01024",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "3150"
+  },
+  "INE343H01029": {
+    "DISPLAY_NAME": "Solar Industries India Ltd.",
+    "INDUSTRY": "Chemicals",
+    "SYMBOL_NAME": "SOLARINDS",
+    "ISIN": "INE343H01029",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "13332"
+  },
+  "INE062A01020": {
+    "DISPLAY_NAME": "State Bank of India",
+    "INDUSTRY": "Financial Services",
+    "SYMBOL_NAME": "SBIN",
+    "ISIN": "INE062A01020",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "3045"
+  },
+  "INE044A01036": {
+    "DISPLAY_NAME": "Sun Pharmaceutical Industries Ltd.",
+    "INDUSTRY": "Healthcare",
+    "SYMBOL_NAME": "SUNPHARMA",
+    "ISIN": "INE044A01036",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "3351"
+  },
+  "INE494B01023": {
+    "DISPLAY_NAME": "TVS Motor Company Ltd.",
+    "INDUSTRY": "Automobile and Auto Components",
+    "SYMBOL_NAME": "TVSMOTOR",
+    "ISIN": "INE494B01023",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "8479"
+  },
+  "INE467B01029": {
+    "DISPLAY_NAME": "Tata Consultancy Services Ltd.",
+    "INDUSTRY": "Information Technology",
+    "SYMBOL_NAME": "TCS",
+    "ISIN": "INE467B01029",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "11536"
+  },
+  "INE192A01025": {
+    "DISPLAY_NAME": "Tata Consumer Products Ltd.",
+    "INDUSTRY": "Fast Moving Consumer Goods",
+    "SYMBOL_NAME": "TATACONSUM",
+    "ISIN": "INE192A01025",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "3432"
+  },
+  "INE155A01022": {
+    "DISPLAY_NAME": "Tata Motors Passenger Vehicles Ltd.",
+    "INDUSTRY": "Automobile and Auto Components",
+    "SYMBOL_NAME": "TMPV",
+    "ISIN": "INE155A01022",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "3456"
+  },
+  "INE245A01021": {
+    "DISPLAY_NAME": "Tata Power Co. Ltd.",
+    "INDUSTRY": "Power",
+    "SYMBOL_NAME": "TATAPOWER",
+    "ISIN": "INE245A01021",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "3426"
+  },
+  "INE081A01020": {
+    "DISPLAY_NAME": "Tata Steel Ltd.",
+    "INDUSTRY": "Metals & Mining",
+    "SYMBOL_NAME": "TATASTEEL",
+    "ISIN": "INE081A01020",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "3499"
+  },
+  "INE669C01036": {
+    "DISPLAY_NAME": "Tech Mahindra Ltd.",
+    "INDUSTRY": "Information Technology",
+    "SYMBOL_NAME": "TECHM",
+    "ISIN": "INE669C01036",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "13538"
+  },
+  "INE280A01028": {
+    "DISPLAY_NAME": "Titan Company Ltd.",
+    "INDUSTRY": "Consumer Durables",
+    "SYMBOL_NAME": "TITAN",
+    "ISIN": "INE280A01028",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "3506"
+  },
+  "INE685A01028": {
+    "DISPLAY_NAME": "Torrent Pharmaceuticals Ltd.",
+    "INDUSTRY": "Healthcare",
+    "SYMBOL_NAME": "TORNTPHARM",
+    "ISIN": "INE685A01028",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "3518"
+  },
+  "INE849A01020": {
+    "DISPLAY_NAME": "Trent Ltd.",
+    "INDUSTRY": "Consumer Services",
+    "SYMBOL_NAME": "TRENT",
+    "ISIN": "INE849A01020",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "1964"
+  },
+  "INE481G01011": {
+    "DISPLAY_NAME": "UltraTech Cement Ltd.",
+    "INDUSTRY": "Construction Materials",
+    "SYMBOL_NAME": "ULTRACEMCO",
+    "ISIN": "INE481G01011",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "11532"
+  },
+  "INE854D01024": {
+    "DISPLAY_NAME": "United Spirits Ltd.",
+    "INDUSTRY": "Fast Moving Consumer Goods",
+    "SYMBOL_NAME": "UNITDSPR",
+    "ISIN": "INE854D01024",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "10447"
+  },
+  "INE200M01039": {
+    "DISPLAY_NAME": "Varun Beverages Ltd.",
+    "INDUSTRY": "Fast Moving Consumer Goods",
+    "SYMBOL_NAME": "VBL",
+    "ISIN": "INE200M01039",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "18921"
+  },
+  "INE205A01025": {
+    "DISPLAY_NAME": "Vedanta Ltd.",
+    "INDUSTRY": "Metals & Mining",
+    "SYMBOL_NAME": "VEDL",
+    "ISIN": "INE205A01025",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "3063"
+  },
+  "INE075A01022": {
+    "DISPLAY_NAME": "Wipro Ltd.",
+    "INDUSTRY": "Information Technology",
+    "SYMBOL_NAME": "WIPRO",
+    "ISIN": "INE075A01022",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "3787"
+  },
+  "INE010B01027": {
+    "DISPLAY_NAME": "Zydus Lifesciences Ltd.",
+    "INDUSTRY": "Healthcare",
+    "SYMBOL_NAME": "ZYDUSLIFE",
+    "ISIN": "INE010B01027",
+    "EXCH_ID": "NSE",
+    "SECURITY_ID": "7929"
+  }
+}
